@@ -1,0 +1,46 @@
+html {
+    background-color: #151515;
+    color: white;
+    padding: 5%; 
+}
+
+h1, h2, h3, h4 {
+    color: #94692D;
+}
+
+.holder {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#clues {
+    height: 65vh;
+    overflow-y: auto;
+    border: solid 1px #94692D;
+    padding: 0 20px;
+    border-radius: 10px;
+}
+
+.item {
+    display: flex;
+    gap: 20px;
+    padding: 0 20px;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.item:hover{
+    background-color: #94692D30;
+}
+
+.item.selected {
+    border-left: solid 5px #94692D;
+    background-color: #94692D60;
+}
+
+.item-id {
+    background-color: #94692D90;
+    padding: 10px;
+    border-radius: 50%;
+}
