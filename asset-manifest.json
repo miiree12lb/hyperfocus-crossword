@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hyperfocus-crossword/static/css/main.5d180315.css",
+    "main.js": "/hyperfocus-crossword/static/js/main.6ab187b4.js",
+    "index.html": "/hyperfocus-crossword/index.html",
+    "main.5d180315.css.map": "/hyperfocus-crossword/static/css/main.5d180315.css.map",
+    "main.6ab187b4.js.map": "/hyperfocus-crossword/static/js/main.6ab187b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d180315.css",
+    "static/js/main.6ab187b4.js"
+  ]
+}
