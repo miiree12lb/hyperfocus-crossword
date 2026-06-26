@@ -45,6 +45,7 @@ h1, h2, h3, h4 {
 
 .cell.active.highlighted {
     background-color: #f4ece1;
+    border: solid 0.5px #94692D;
 }
 
 .cell.active.highlighted input {
@@ -83,7 +84,7 @@ h1, h2, h3, h4 {
 #clues-content {
     margin: 0;
     overflow-y: auto;
-    max-height: 40vh;
+    max-height: 60vh;
 }
 
 .item {
@@ -110,4 +111,22 @@ h1, h2, h3, h4 {
     border-radius: 50%;
     min-width: 20px;
     text-align: center;
+}
+
+.cell.active.correct-cell {
+    background-color: #2e7d32 !important;
+}
+
+.cell.active.correct-cell input {
+    background-color: #2e7d32 !important;
+    color: white !important;
+}
+
+.cell.active.incorrect-cell {
+    background-color: #c62828 !important;
+}
+
+.cell.active.incorrect-cell input {
+    background-color: #c62828 !important;
+    color: white !important;
 }
