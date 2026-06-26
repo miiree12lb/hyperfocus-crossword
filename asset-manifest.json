@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/hyperfocus-crossword/static/css/main.ae2f2b3d.css",
-    "main.js": "/hyperfocus-crossword/static/js/main.96e73eef.js",
+    "main.css": "/hyperfocus-crossword/static/css/main.8b1e18e7.css",
+    "main.js": "/hyperfocus-crossword/static/js/main.2375e96a.js",
     "index.html": "/hyperfocus-crossword/index.html",
-    "main.ae2f2b3d.css.map": "/hyperfocus-crossword/static/css/main.ae2f2b3d.css.map",
-    "main.96e73eef.js.map": "/hyperfocus-crossword/static/js/main.96e73eef.js.map"
+    "main.8b1e18e7.css.map": "/hyperfocus-crossword/static/css/main.8b1e18e7.css.map",
+    "main.2375e96a.js.map": "/hyperfocus-crossword/static/js/main.2375e96a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae2f2b3d.css",
-    "static/js/main.96e73eef.js"
+    "static/css/main.8b1e18e7.css",
+    "static/js/main.2375e96a.js"
   ]
 }
